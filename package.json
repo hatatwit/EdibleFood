@@ -1,0 +1,16 @@
+{
+  "name": "EdibleFood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.0",
+    "node": "^19.2.0"
+  }
+}
